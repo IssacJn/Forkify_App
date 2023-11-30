@@ -20,7 +20,7 @@ Forkify Recipe App is a user friendly web application that allows users to searc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/issacjohn1/Forkify_App.git
+   git clone https://github.com/IssacJn/Forkify_App.git
    ```
 2. Navigate to the project directory:
    ```bash
